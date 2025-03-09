@@ -18,8 +18,8 @@ The primary goals of this project are:
 Below are the dashboards included in this project, displayed as images for easy viewing. Each provides a focused snapshot of a key operational area:
 
 1. **Safety Overview**  
-   - Highlights safety incidents, compliance rates, and preventive measures to ensure a secure working environment.  
-   ![Safety Overview](./Dashboards/Safety_Overview.png)
+   - Highlights safety incidents, compliance rates, and preventive measures to ensure a secure working environment
+   ![Image](https://github.com/user-attachments/assets/d54a52e6-ee6c-4672-bbd8-6b3df0df6d82)
 
 
 
