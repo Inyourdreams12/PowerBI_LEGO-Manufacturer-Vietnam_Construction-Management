@@ -15,7 +15,13 @@ The primary goals of this project are:
 - **Efficiency & Engagement**: Optimize the report structure, integrate automation, and enhance clarity to improve stakeholder engagement and operational efficiency.
 
 ## Dashboards Overview
-Below is a list of the dashboards included in this project, each dashboard provides a focused view of a key operational area:
+Below are the dashboards included in this project, displayed as images for easy viewing. Each provides a focused snapshot of a key operational area:
+
+1. **Safety Overview**  
+   - Highlights safety incidents, compliance rates, and preventive measures to ensure a secure working environment.  
+   ![Safety Overview](./Dashboards/Safety_Overview.png)
+
+
 
 ## Results
 The project delivers a set of interactive and visually appealing dashboards, currently available as PDF files in this repository. Key outcomes include:
