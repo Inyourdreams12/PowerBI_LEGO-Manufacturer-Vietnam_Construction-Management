@@ -33,13 +33,13 @@ Below are the dashboards included in this project, displayed as images for easy 
    - Tracks the status of as-built drawing submissions, ensuring documentation aligns with construction milestones.  
    ![Image](https://github.com/user-attachments/assets/61b85285-a651-4208-8a0d-d43994ec25b8)
 
-5. **QAQC**  
-   - Evaluates quality assurance and control metrics, including defect rates and inspection outcomes.  
-   ![Image](https://github.com/user-attachments/assets/213d6e37-e1fe-4639-9710-2ac9200d2a07)
-
-6. **Risk**  
+5. **Risk**  
    - Identifies potential risks, their severity, and mitigation strategies to minimize operational disruptions.  
   ![Image](https://github.com/user-attachments/assets/80ea127d-3cb0-43b4-9c65-a2cab292b54d)
+
+6. **QAQC**  
+   - Evaluates quality assurance and control metrics, including defect rates and inspection outcomes.  
+   ![Image](https://github.com/user-attachments/assets/213d6e37-e1fe-4639-9710-2ac9200d2a07)
 
 7. **Sustainability**  
    - Measures energy efficiency, waste reduction, and eco-friendly practices to meet sustainability targets.  
